@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 - https://note.com/webnote32/n/n56cd57610765
 
 を参考にし、作成しました。
+
+![particlesmouse](https://github.com/user-attachments/assets/3e368a52-6d7d-4f56-a673-089973efa16e)
