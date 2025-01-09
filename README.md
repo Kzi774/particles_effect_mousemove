@@ -5,7 +5,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 Currently, two official plugins are available:
 
 - https://www.youtube.com/watch?v=j87gaYoBmso
-- [[@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh](https://qiita.com/nemutas/items/f08eacd9fc65be5dfbde)
+- https://qiita.com/nemutas/items/f08eacd9fc65be5dfbde
 - https://note.com/webnote32/n/n56cd57610765
 
 を参考にし、作成しました。
