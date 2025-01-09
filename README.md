@@ -9,4 +9,5 @@ Currently, two official plugins are available:
 - https://note.com/webnote32/n/n56cd57610765
 
 を参考にし、作成しました。
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/ruroyCBQeGUZ8xM3n8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ruroyCBQeGUZ8xM3n8">via GIPHY</a></p>
+
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThyYXhwOXlzMmxiNGd0bTA0aXF3YXJrMHd1YXF4YzA3MDlzbGQzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ruroyCBQeGUZ8xM3n8/giphy-downsized-large.gif
